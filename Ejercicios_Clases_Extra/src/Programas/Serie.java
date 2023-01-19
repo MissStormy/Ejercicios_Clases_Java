@@ -76,5 +76,9 @@ public class Serie {
         this.creador = creador;
     }
     
+    public String ToString(){
+        return "" + titulo + "" + num_temp + "" + entregado + "" + genero + "" + creador;
+    }
+    
     
 }
