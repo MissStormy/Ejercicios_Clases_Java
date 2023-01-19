@@ -1,9 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package Cacharros;
 
+package Cacharros;
+import java.util.*;
 /**
  *
  * @author Dungeon Larimaster
@@ -14,7 +11,10 @@ public class Cacharros {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner intent = new Scanner(System.in);
+        Scanner charent = new Scanner(System.in);
+        
+        char letra;
     }
     
 }
